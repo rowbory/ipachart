@@ -1,0 +1,22 @@
+﻿c IPA art-style touch keyboard
+store(&NAME) 'IPAchart'
+store(&COPYRIGHT) '© 2024 David Rowbory'
+store(&KEYBOARDVERSION) '0.2'
+store(&TARGETS) 'any'
+store(&LAYOUTFILE) 'ipachart.keyman-touch-layout'
+store(&KMW_EMBEDCSS) 'ipachart.css'
+
+begin Unicode > use(main)
+
+group(main) using keys
+
+c Auto-correct
+'t' + 'ʃ' > 't͡ʃ'
+'d' + 'ʒ' > 'd͡ʒ'
+'g' + 'b' > 'g͜b'
+'k' + 'p' > 'k͜p'
+
+'0/' + '/' > '∅'
+
+c For touch
++ [T_a_3] > 'á'
