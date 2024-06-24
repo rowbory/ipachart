@@ -60,12 +60,18 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
+    <File>
+      <Name>ipachart-bg.jpg</Name>
+      <Description>File ipachart-bg.jpg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpg</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>IPAchart</Name>
       <ID>ipachart</ID>
-      <Version>1.0</Version>
+      <Version>0.2</Version>
       <OSKFont>..\..\naijatype\source\Andika-Regular.ttf</OSKFont>
       <DisplayFont>..\..\naijatype\source\Andika-Regular.ttf</DisplayFont>
       <Languages>

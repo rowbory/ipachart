@@ -2,13 +2,15 @@
 <KeymanDeveloperProjectUser>
   <ViewState>
     <tab>3</tab>
-    <showhelp>1</showhelp>
+    <showhelp>0</showhelp>
     <path>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\ipachart.kpj</path>
+    <file ID="id_2c735539d92ade5442ab2331dc833e25" Expanded="1"/>
+    <file ID="id_8cd390154adaf4f2db0d5e755d727d9a" Expanded="1"/>
   </ViewState>
   <FileStates>
     <FileState>
-      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
-      <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\LICENSE.md</FullPath>
+      <ID>id_718779752b851ac0dc6281a8c8d77e7e</ID>
+      <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\LICENSE</FullPath>
     </FileState>
     <FileState>
       <ID>id_f681971bce78d4f4b9b26bd86a123837</ID>
@@ -35,6 +37,10 @@
       <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\ipachart_code_generator.ods</FullPath>
     </FileState>
     <FileState>
+      <ID>id_c228f47964c1ef7876d47d34e22c6e48</ID>
+      <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\source\ipachart-codes.txt</FullPath>
+    </FileState>
+    <FileState>
       <ID>id_8cd390154adaf4f2db0d5e755d727d9a</ID>
       <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\source\ipachart.kps</FullPath>
       <IDEState>
@@ -45,6 +51,10 @@
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
       <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\source\readme.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_2c735539d92ade5442ab2331dc833e25</ID>
@@ -61,10 +71,18 @@
     <FileState>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
       <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\source\welcome.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_9884079666af9acb4a18b3c51fa54ae7</ID>
       <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\source\ipachart.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_eeb8b726fe6351fcac828c220d79dcda</ID>
+      <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\source\ipachart-bg.jpg</FullPath>
     </FileState>
     <FileState>
       <ID>id_cc911b6e3353ff7af6c8d1854f4c093b</ID>
@@ -100,6 +118,18 @@
     </File>
     <File>
       <ID>id_MRU1</ID>
+      <Filename>welcome.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\source\welcome.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>readme.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\source\readme.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
       <Filename>ipachart.kps</Filename>
       <FileType>.kps</FileType>
       <FullPath>\\vmware-host\Shared Folders\WinMacShare\KeyMan Dev\ipachart\source\ipachart.kps</FullPath>
